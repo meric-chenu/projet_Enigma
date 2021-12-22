@@ -1,9 +1,9 @@
 #__Projet Enigma très simplifié !__
 --
->title: Projet Enigma
->category : programmation Python, cryptologie
->difficulty : simple
->author: Tourinko
+>title: Projet Enigma  
+>category : programmation Python, cryptologie  
+>difficulty : simple  
+>author: Tourinko  
 >description : Le but est de comprendre le fonctionnement d'Enigma en construisant des rotors et en les mettant en pratique
 
 __Prise en main__
